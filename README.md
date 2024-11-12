@@ -7,26 +7,28 @@ Data: 12.11.2024
 
 W poniższych sekcjach opowiem trochę o sobie.
 
-## 1.1. Skąd jesteś?
+# 2. O Jędrzeju...
+
+## 2.1. Skąd jesteś?
 
 Jestem z i mieszkam we Wrocławiu.
 
-## 1.2. Twoje doświadczenie zawodowe?
+## 2.2. Twoje doświadczenie zawodowe?
 
 Z wykształcenia jestem inżynierem optoelektronikiem, ale już zmądrzałem i obecnie pracuję jako tester automatyzujący.
 
-## 1.3. Moje doświadczenie z DevOps?
+## 2.3. Moje doświadczenie z DevOps?
 
 Dużo komitowałem do Git oraz wiem do czego służy Jenkins.
 
-## 1.4. Twoje zainteresowania?
+## 2.4. Twoje zainteresowania?
 
 Interesuję się psychologią oraz językami obcymi.
 
-## 1.5. Dlaczego wybrałeś ten kurs?
+## 2.5. Dlaczego wybrałeś ten kurs?
 
-Mój profil osobowości pasuje do inżyniera DevOps. Mój Przyjaciel polecał mi ten kurs.
+Mój profil osobowości pasuje do inżyniera DevOps. Dodatkowo, mój Przyjaciel polecał mi ten kurs.
 
-# 2. Odnośniki
+# 3. Odnośniki literaturowe
 
-Mój profil znajduje się tutaj [LinkedIn](https://www.linkedin.com/in/andrewszelc/), a to mój adres [e-mail](mailto:jedrzej@jedrzej.info).
+Mój profil zawodowy znajduje się tutaj [LinkedIn](https://www.linkedin.com/in/andrewszelc/), a to mój adres [e-mail](mailto:jedrzej@jedrzej.info).
