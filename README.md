@@ -1,11 +1,11 @@
 # 1. Wprowadzenie
 
-Oto mój plik ReadMe w markdownie opracowany na kurs DevOps, edycja 2024-2025, prowadzony przez InfoShareAcademy.
+Oto mój plik ReadMe w markdownie opracowany na kurs DevOps, edycja 2024-2025, prowadzony przez InfoShareAcademy.\
 
-Autor: Jędrzej Szelc
-Data: 12.11.2024
+Autor: Jędrzej Szelc\
+Data: 12.11.2024\
 
-W poniższych sekcjach opowiem trochę o sobie.
+W poniższych sekcjach opowiem trochę o sobie.\
 
 ***
 
@@ -36,3 +36,9 @@ Interesuję się psychologią oraz językami obcymi.
 ## 1.5. Dlaczego wybrałeś ten kurs?
 
 Mój profil osobowości pasuje do inżyniera DevOps. Mój Przyjaciel polecał mi ten kurs.
+
+***
+
+# 2. Odnośniki
+
+Mój profil [LinkedIn](https://www.linkedin.com/in/andrewszelc/).
