@@ -1,7 +1,7 @@
 # 1. Wprowadzenie
 
-<ins>Autor</ins>: Jędrzej Szelc\
-<ins>Data (utworzenia pliku, nie urodzenia)</ins>: 12.11.2024
+|<ins>Autor</ins>|Jędrzej Szelc|
+|<ins>Data (utworzenia pliku, nie urodzenia)</ins>:|12.11.2024|
 
 Oto mój plik ReadMe w markdownie opracowany na kurs DevOps prowadzony przez [InfoShareAcademy](https://infoshareacademy.com/kurs/kurs-devops-od-podstaw-wieczorowy/), edycja 2024-2025.\
 W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co, bo ogólnie jestem nudny jak wesele bez alkoholu...).
