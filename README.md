@@ -8,7 +8,7 @@ W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co, bo
 
 # 2. O Jędrzeju...
 
-## 2.1. Skąd jestem?
+## 2.1. Skąd jestem
 
 Jestem z i mieszkam we Wrocławiu.
 
@@ -18,16 +18,16 @@ Z wykształcenia jestem inżynierem optoelektronikiem, ale już zmądrzałem i o
 
 ## 2.3. Moje doświadczenie z DevOps
 
-Dużo komitowałem do Git oraz wiem do czego służy Jenkins.
+Dużo komitowałem, wiem do czego służy Jenkins oraz nie lubię interfejsu JIRA.
 
 ## 2.4. Moje zainteresowania
 
-Interesuję się psychologią, językami obcymi oraz nadchodzącym końcem świata.
+Interesuję się psychologią, językami obcymi oraz nadchodzącym właśnie końcem świata.
 
 ## 2.5. Dlaczego wybrałem kurs DevOps
 
-Mój profil osobowości pasuje do inżyniera DevOps. Dodatkowo, mój Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom.
+Mój profil osobowości pasuje do inżyniera DevOps, choć nie twierdzę, że jestem masochistą. \ Dodatkowo, mój Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (przynajmniej niektórym).
 
 # 3. Kontakt
 
-Mój profil zawodowy znajduje się tutaj [LinkedIn](https://www.linkedin.com/in/andrewszelc/), a to mój adres [e-mail](mailto:jedrzej@jedrzej.info).
+Dla złaknionych kontaktu ze mną, mój profil zawodowy znajduje się [tutaj](https://www.linkedin.com/in/andrewszelc/), a groźby karalne można wysyłać na [maila](mailto:jedrzej@jedrzej.info).
