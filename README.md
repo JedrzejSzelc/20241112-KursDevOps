@@ -1,10 +1,10 @@
 # 1. Wprowadzenie
 
 Autor: Jędrzej Szelc\
-Data: 12.11.2024
+Data: 12.11.2024 (utworzenia pliku, a nie moich urodzin)
 
 Oto mój plik ReadMe w markdownie opracowany na kurs DevOps prowadzony przez [InfoShareAcademy](https://infoshareacademy.com/kurs/kurs-devops-od-podstaw-wieczorowy/), edycja 2024-2025.\
-W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co, bo zazwyczaj jestem nudny jak wesel bez alkoholu...).
+W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co, bo ogólnie jestem nudny jak wesele bez alkoholu...).
 
 # 2. O Jędrzeju...
 
@@ -22,11 +22,11 @@ Dużo komitowałem do Git oraz wiem do czego służy Jenkins.
 
 ## 2.4. Moje zainteresowania
 
-Interesuję się psychologią oraz językami obcymi.
+Interesuję się psychologią, językami obcymi oraz nadchodzącym końcem świata.
 
 ## 2.5. Dlaczego wybrałem kurs DevOps
 
-Mój profil osobowości pasuje do inżyniera DevOps. Dodatkowo, mój Przyjaciel polecał mi ten kurs.
+Mój profil osobowości pasuje do inżyniera DevOps. Dodatkowo, mój Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom.
 
 # 3. Kontakt
 
