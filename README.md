@@ -1,11 +1,11 @@
 # 1. Wprowadzenie
 
-Oto mój plik ReadMe w markdownie opracowany na kurs DevOps, edycja 2024-2025, prowadzony przez InfoShareAcademy.\
+Oto mój plik ReadMe w markdownie opracowany na kurs DevOps, edycja 2024-2025, prowadzony przez InfoShareAcademy.
 
 Autor: Jędrzej Szelc\
-Data: 12.11.2024\
+Data: 12.11.2024
 
-W poniższych sekcjach opowiem trochę o sobie.\
+W poniższych sekcjach opowiem trochę o sobie.
 
 ***
 
