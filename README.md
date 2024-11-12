@@ -32,6 +32,3 @@ Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom
 # 3. Kontakt
 
 Dla złaknionych kontaktu ze mną, mój profil zawodowy znajduje się [tutaj](https://www.linkedin.com/in/andrewszelc/), a groźby karalne można wysyłać na [maila](mailto:jedrzej@jedrzej.info).
-
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
