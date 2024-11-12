@@ -1,6 +1,6 @@
 # 1. Wprowadzenie
 
-Oto mój plik ReadMe w markdownie opracowany na kurs DevOps, edycja 2024-2025, prowadzony przez InfoShareAcademy.
+Oto mój plik ReadMe w markdownie opracowany na kurs DevOps prowadzony przez [InfoShareAcademy](https://infoshareacademy.com/kurs/kurs-devops-od-podstaw-wieczorowy/), edycja 2024-2025.
 
 Autor: Jędrzej Szelc\
 Data: 12.11.2024
@@ -9,26 +9,26 @@ W poniższych sekcjach opowiem trochę o sobie.
 
 # 2. O Jędrzeju...
 
-## 2.1. Skąd jesteś?
+## 2.1. Skąd jestem?
 
 Jestem z i mieszkam we Wrocławiu.
 
-## 2.2. Twoje doświadczenie zawodowe?
+## 2.2. Moje doświadczenie zawodowe
 
 Z wykształcenia jestem inżynierem optoelektronikiem, ale już zmądrzałem i obecnie pracuję jako tester automatyzujący.
 
-## 2.3. Moje doświadczenie z DevOps?
+## 2.3. Moje doświadczenie z DevOps
 
 Dużo komitowałem do Git oraz wiem do czego służy Jenkins.
 
-## 2.4. Twoje zainteresowania?
+## 2.4. Moje zainteresowania
 
 Interesuję się psychologią oraz językami obcymi.
 
-## 2.5. Dlaczego wybrałeś ten kurs?
+## 2.5. Dlaczego wybrałem kurs DevOps
 
 Mój profil osobowości pasuje do inżyniera DevOps. Dodatkowo, mój Przyjaciel polecał mi ten kurs.
 
-# 3. Odnośniki literaturowe
+# 3. Kontakt
 
 Mój profil zawodowy znajduje się tutaj [LinkedIn](https://www.linkedin.com/in/andrewszelc/), a to mój adres [e-mail](mailto:jedrzej@jedrzej.info).
