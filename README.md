@@ -14,20 +14,23 @@ Jestem z i mieszkam we Wrocławiu.
 
 ## 2.2. Moje doświadczenie zawodowe
 
-Z wykształcenia jestem inżynierem optoelektronikiem, ale już zmądrzałem i obecnie pracuję jako tester automatyzujący.
+Z wykształcenia jestem inżynierem optoelektronikiem, ale ***już zmądrzałem*** i obecnie pracuję jako tester automatyzujący.
 
 ## 2.3. Moje doświadczenie z DevOps
 
-Dużo komitowałem, wiem do czego służy Jenkins oraz nie lubię interfejsu JIRA.
+Dużo komitowałem, wiem do czego służy Jenkins oraz wkurza mnie JIRA.
 
 ## 2.4. Moje zainteresowania
 
-Interesuję się psychologią, językami obcymi oraz nadchodzącym właśnie końcem świata.
+Interesuję się:
+- psychologią,
+- językami obcymi,
+- nadchodzącym właśnie końcem świata.
 
 ## 2.5. Dlaczego wybrałem kurs DevOps
 
 Mój profil osobowości pasuje do inżyniera DevOps, choć nie twierdzę, że jestem masochistą.\
-Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (przynajmniej niektórym).
+Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (nie wszystkim).
 
 # 3. Kontakt
 
