@@ -30,7 +30,7 @@ Interesuję się:
 ## 2.5. Dlaczego wybrałem kurs DevOps
 
 Mój profil osobowości pasuje do inżyniera DevOps, choć nie twierdzę, że jestem masochistą.\
-Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (nie wszystkim).
+Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (przynajmniej tym, którzy nie wiszą mi kasy).
 
 # 3. Kontakt
 
