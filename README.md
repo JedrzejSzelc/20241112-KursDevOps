@@ -3,8 +3,8 @@
 Autor: Jędrzej Szelc\
 Data: 12.11.2024
 
-Oto mój plik ReadMe w markdownie opracowany na kurs DevOps prowadzony przez [InfoShareAcademy](https://infoshareacademy.com/kurs/kurs-devops-od-podstaw-wieczorowy/), edycja 2024-2025.
-W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co...).
+Oto mój plik ReadMe w markdownie opracowany na kurs DevOps prowadzony przez [InfoShareAcademy](https://infoshareacademy.com/kurs/kurs-devops-od-podstaw-wieczorowy/), edycja 2024-2025.\
+W poniższych sekcjach opowiem trochę o sobie (choć w sumie nie wiem po co, bo zazwyczaj jestem nudny jak wesel bez alkoholu...).
 
 # 2. O Jędrzeju...
 
