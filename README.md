@@ -26,7 +26,7 @@ Interesuję się psychologią, językami obcymi oraz nadchodzącym właśnie ko�
 
 ## 2.5. Dlaczego wybrałem kurs DevOps
 
-Mój profil osobowości pasuje do inżyniera DevOps, choć nie twierdzę, że jestem masochistą.\ 
+Mój profil osobowości pasuje do inżyniera DevOps, choć nie twierdzę, że jestem masochistą.\
 Dodatkowo, mój zaufany Przyjaciel polecał mi ten kurs, a ja ufam przyjaciołom (przynajmniej niektórym).
 
 # 3. Kontakt
